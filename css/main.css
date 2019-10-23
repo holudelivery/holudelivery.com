@@ -12,3 +12,8 @@ body {
   padding-bottom: 40px;
   background-color: #6733BE;
 }
+
+img {
+  width: 500px;
+  height: auto;
+}
